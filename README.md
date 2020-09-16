@@ -12,3 +12,5 @@ adversarial contains the interfaces of the game and the search algorithms (Adver
 adversarial/core contains Metrics.java which calculates the number of expanded nodes by a used search algorithm.
 
 adversarial/tictactoe The game's folder, contains the game implementation TicTacToe.java, and the gameplay file (which is to execute to try the game) TicTacToeGamePlay.java .
+adversarial/Connect four The game's folder, contains the game implementation Connectfour.java, and the gameplay file (which is to execute to try the game) ConnectfourGamePlay.java .
+
